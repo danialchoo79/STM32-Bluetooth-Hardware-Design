@@ -8,7 +8,7 @@ Practicing PCB Design with an STM32 Microcontroller with an RF Capability.
 
 ![image](https://github.com/danialchoo79/STM32-Bluetooth-Hardware-Design/assets/118032879/082c9338-aba7-42e1-873b-243ce68c966e)
 
-Learnt a lot about Controlled Impedances, Via Stitching, 4-Layer Board Design, Prioritising Sensitive Devices, Choosing PCB Trace Width, 
+Learnt a lot about SMPS, Controlled Impedances, Via Stitching, 4-Layer Board Design, Prioritising Sensitive Devices, Choosing PCB Trace Width, 
 Using Polygonal Pours, Differential Signalling, Bypass, Decoupling Capacitors, Referring to Reference Design w a pinch of salt, using 
 Fiducial Markers, using STM32 CubeIDE to route components.
 
