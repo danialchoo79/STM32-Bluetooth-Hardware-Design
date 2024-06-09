@@ -10,7 +10,7 @@ Practicing PCB Design with an STM32 Microcontroller with an RF Capability.
 
 Learnt a lot about SMPS, Controlled Impedances, Via Stitching, 4-Layer Board Design, Prioritising Sensitive Devices, Choosing PCB Trace Width, 
 Using Polygonal Pours, Differential Signalling, Bypass, Decoupling Capacitors, Referring to Reference Design w a pinch of salt, using 
-Fiducial Markers, using STM32 CubeIDE to route components.
+Fiducial Markers, using STM32 CubeIDE to route components, component layout.
 
 Still not perfect.
 
